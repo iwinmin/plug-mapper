@@ -1,0 +1,27 @@
+{
+  "name": "plug-mapper",
+  "version": "0.1.0",
+  "description": "A network port mapper.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iwinmin/plug-mapper.git"
+  },
+  "keywords": [
+    "network",
+    "prot",
+    "mapping"
+  ],
+  "author": "Winmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwinmin/plug-mapper/issues"
+  },
+  "homepage": "https://github.com/iwinmin/plug-mapper#readme",
+  "dependencies": {
+    "plug-task": "^0.2.3"
+  }
+}
